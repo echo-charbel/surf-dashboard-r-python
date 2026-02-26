@@ -23,7 +23,7 @@ The data pipeline is designed to be transparent and reproducible: **scrape → e
 ---
 
 ## **Live demo**
-- **Live dashboard (RPubs):** RPUBS_URL  
+- **Live dashboard (RPubs):** https://rpubs.com/echo-charbel/1402982  
 
 ---
 
