@@ -22,9 +22,8 @@ The data pipeline is designed to be transparent and reproducible: **scrape → e
 
 ---
 
-## **Live demo & source code**
+## **Live demo**
 - **Live dashboard (RPubs):** RPUBS_URL  
-- **Source code (GitHub):** GITHUB_URL  
 
 ---
 
