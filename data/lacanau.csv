@@ -1,0 +1,43 @@
+Day,Hour,Waves_size,Wind_speed,Wind_direction
+Mercredi 25 Février,06:00,1.5 - 2.2,17,Orientation vent Sud Sud Est
+Mercredi 25 Février,09:00,1.5 - 2.3,16,Orientation vent Sud Est
+Mercredi 25 Février,12:00,1.6 - 2.4,13,Orientation vent Sud Sud Est
+Mercredi 25 Février,15:00,1.8 - 2.7,13,Orientation vent Sud Ouest
+Mercredi 25 Février,18:00,2.0 - 2.9,7,Orientation vent Nord Nord Ouest
+Mercredi 25 Février,21:00,2.1 - 3.2,9,Orientation vent Nord
+Jeudi 26 Février,06:00,2.2 - 3.3,6,Orientation vent Sud Est
+Jeudi 26 Février,09:00,2.1 - 3.1,9,Orientation vent Sud Est
+Jeudi 26 Février,12:00,2.0 - 3.0,3,Orientation vent Sud Ouest
+Jeudi 26 Février,15:00,1.9 - 2.9,6,Orientation vent Ouest Sud Ouest
+Jeudi 26 Février,18:00,1.9 - 2.8,4,Orientation vent Ouest
+Jeudi 26 Février,21:00,1.8 - 2.7,3,Orientation vent Est Sud Est
+Vendredi 27 Février,06:00,1.6 - 2.4,7,Orientation vent Nord Ouest
+Vendredi 27 Février,09:00,1.5 - 2.2,7,Orientation vent Ouest
+Vendredi 27 Février,12:00,1.4 - 2.1,13,Orientation vent Sud Ouest
+Vendredi 27 Février,15:00,1.4 - 2.1,16,Orientation vent Ouest Sud Ouest
+Vendredi 27 Février,18:00,1.5 - 2.3,17,Orientation vent Ouest
+Vendredi 27 Février,21:00,1.7 - 2.5,15,Orientation vent Ouest Sud Ouest
+Samedi 28 Février,06:00,2.0 - 2.9,21,Orientation vent Ouest Nord Ouest
+Samedi 28 Février,09:00,2.0 - 3.1,19,Orientation vent Ouest Nord Ouest
+Samedi 28 Février,12:00,2.2 - 3.3,16,Orientation vent Ouest Nord Ouest
+Samedi 28 Février,15:00,2.3 - 3.5,14,Orientation vent Ouest Nord Ouest
+Samedi 28 Février,18:00,2.4 - 3.7,11,Orientation vent Nord Ouest
+Samedi 28 Février,21:00,2.5 - 3.7,7,Orientation vent Nord Nord Ouest
+Dimanche 1 Mars,06:00,2.2 - 3.3,10,Orientation vent Est
+Dimanche 1 Mars,09:00,2.0 - 3.0,14,Orientation vent Est Sud Est
+Dimanche 1 Mars,12:00,1.9 - 2.8,16,Orientation vent Est Sud Est
+Dimanche 1 Mars,15:00,1.7 - 2.5,17,Orientation vent Est Sud Est
+Dimanche 1 Mars,18:00,1.6 - 2.4,21,Orientation vent Est Sud Est
+Dimanche 1 Mars,21:00,1.5 - 2.2,21,Orientation vent Est Sud Est
+Lundi 2 Mars,06:00,1.4 - 2.0,23,Orientation vent Sud Est
+Lundi 2 Mars,09:00,1.4 - 2.0,22,Orientation vent Sud Est
+Lundi 2 Mars,12:00,1.4 - 2.0,14,Orientation vent Sud Est
+Lundi 2 Mars,15:00,1.4 - 2.1,16,Orientation vent Est Sud Est
+Lundi 2 Mars,18:00,1.4 - 2.1,20,Orientation vent Est
+Lundi 2 Mars,21:00,1.5 - 2.2,21,Orientation vent Est Sud Est
+Mardi 3 Mars,06:00,1.6 - 2.3,16,Orientation vent Est Sud Est
+Mardi 3 Mars,09:00,1.6 - 2.4,15,Orientation vent Est
+Mardi 3 Mars,12:00,1.7 - 2.5,13,Orientation vent Est
+Mardi 3 Mars,15:00,1.8 - 2.7,14,Orientation vent Est Nord Est
+Mardi 3 Mars,18:00,1.8 - 2.7,17,Orientation vent Est
+Mardi 3 Mars,21:00,1.8 - 2.7,18,Orientation vent Est

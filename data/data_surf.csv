@@ -1,0 +1,43 @@
+Date,Time,Wave_size,Wind_speed,Wind_direction
+Jeudi 26 Février,06:00,2.2m - 3.3m,9km/h,Est Sud Est
+Jeudi 26 Février,09:00,2.1m - 3.2m,8km/h,Est Sud Est
+Jeudi 26 Février,12:00,2.0m - 3.0m,8km/h,Sud
+Jeudi 26 Février,15:00,2.0m - 3.0m,10km/h,Ouest Nord Ouest
+Jeudi 26 Février,18:00,1.9m - 2.9m,8km/h,Nord Nord Ouest
+Jeudi 26 Février,21:00,1.9m - 2.8m,7km/h,Est
+Vendredi 27 Février,06:00,1.6m - 2.4m,8km/h,Ouest Sud Ouest
+Vendredi 27 Février,09:00,1.5m - 2.2m,6km/h,Ouest Sud Ouest
+Vendredi 27 Février,12:00,1.4m - 2.1m,10km/h,Sud Sud Ouest
+Vendredi 27 Février,15:00,1.4m - 2.1m,18km/h,Ouest Sud Ouest
+Vendredi 27 Février,18:00,1.6m - 2.5m,19km/h,Ouest Sud Ouest
+Vendredi 27 Février,21:00,1.9m - 2.8m,21km/h,Ouest Sud Ouest
+Samedi 28 Février,06:00,2.3m - 3.4m,26km/h,Ouest
+Samedi 28 Février,09:00,2.4m - 3.5m,24km/h,Ouest Nord Ouest
+Samedi 28 Février,12:00,2.4m - 3.6m,22km/h,Ouest
+Samedi 28 Février,15:00,2.4m - 3.7m,20km/h,Ouest Nord Ouest
+Samedi 28 Février,18:00,2.5m - 3.7m,17km/h,Ouest Nord Ouest
+Samedi 28 Février,21:00,2.5m - 3.7m,10km/h,Ouest
+Dimanche 1 Mars,06:00,2.2m - 3.3m,12km/h,Sud Sud Est
+Dimanche 1 Mars,09:00,2.0m - 3.0m,16km/h,Sud Sud Est
+Dimanche 1 Mars,12:00,1.8m - 2.8m,12km/h,Sud Sud Est
+Dimanche 1 Mars,15:00,1.7m - 2.6m,3km/h,Sud Ouest
+Dimanche 1 Mars,18:00,1.6m - 2.4m,11km/h,Est Sud Est
+Dimanche 1 Mars,21:00,1.6m - 2.4m,19km/h,Est Sud Est
+Lundi 2 Mars,06:00,1.5m - 2.3m,22km/h,Sud Est
+Lundi 2 Mars,09:00,1.5m - 2.3m,21km/h,Sud Est
+Lundi 2 Mars,12:00,1.5m - 2.3m,19km/h,Sud Sud Est
+Lundi 2 Mars,15:00,1.6m - 2.4m,14km/h,Sud Sud Ouest
+Lundi 2 Mars,18:00,1.6m - 2.4m,9km/h,Est
+Lundi 2 Mars,21:00,1.7m - 2.5m,19km/h,Est Sud Est
+Mardi 3 Mars,06:00,1.8m - 2.7m,12km/h,Est Sud Est
+Mardi 3 Mars,09:00,2.0m - 2.9m,11km/h,Est Sud Est
+Mardi 3 Mars,12:00,2.2m - 3.3m,4km/h,Nord
+Mardi 3 Mars,15:00,2.4m - 3.6m,15km/h,Nord Nord Ouest
+Mardi 3 Mars,18:00,2.5m - 3.7m,9km/h,Nord Est
+Mardi 3 Mars,21:00,2.4m - 3.6m,16km/h,Est
+Mercredi 4 Mars,06:00,1.9m - 2.9m,16km/h,Est
+Mercredi 4 Mars,09:00,1.7m - 2.6m,8km/h,Est Sud Est
+Mercredi 4 Mars,12:00,1.5m - 2.3m,5km/h,Sud Ouest
+Mercredi 4 Mars,15:00,1.4m - 2.1m,2km/h,Ouest
+Mercredi 4 Mars,18:00,1.3m - 1.9m,8km/h,Nord Est
+Mercredi 4 Mars,21:00,1.2m - 1.7m,12km/h,Est
